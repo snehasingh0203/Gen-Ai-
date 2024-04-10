@@ -1,5 +1,5 @@
-export API_KEY=
-export PROJECT_ID=
+export API_KEY=AIzaSyAv6-xplwdO60-opWELfoKsIbUaomXKzRk
+export PROJECT_ID=qwiklabs-gcp-01-ac599a64c5d9
 
 gsutil mb gs://$PROJECT_ID
 
